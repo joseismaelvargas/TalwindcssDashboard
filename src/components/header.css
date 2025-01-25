@@ -1,0 +1,5 @@
+.labeldark{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,93,177,1) 49%, rgba(0,104,255,0.8323704481792717) 82%);
+ border: solid rgb(3, 3, 58) 2px;
+}
