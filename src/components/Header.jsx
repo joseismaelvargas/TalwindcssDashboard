@@ -12,8 +12,8 @@
 
     return(
         <>
-        <header className={!dark?"bg-gray-300 h-[235px] rounded-b-[20px]  pt-8 px-6  font-thin":"dark:bg-gray-800 h-[235px] rounded-b-[20px]  pt-8 px-6 "} >
-            <h1 className="text-Very-Dark-blue text-2xl font-bold mb-1 ">Social Media dashbord</h1>
+        <header className={!dark?"bg-gray-200 h-[235px] rounded-b-[20px]  pt-8 px-6  font-thin":"dark:bg-blue-950 h-[235px] rounded-b-[20px]  pt-8 px-6 "} >
+            <h1 className="text-Very-Dark-blue text-2xl font-bold mb-1 dark:text-white ">Social Media dashbord</h1>
             <p className="text-gray-600 font-bold mb-6 text-[20px]">Total followers:23.004</p>
             <hr className="bg-gray-800 mb-7 " />
             <div className="flex place-content-between">
