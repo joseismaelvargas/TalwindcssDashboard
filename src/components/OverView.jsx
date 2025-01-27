@@ -1,4 +1,4 @@
-export const Overview=({user,key,network,audienceType,today,isUp,img,color,sube})=>{
+export const OverView=({user,key,network,audienceType,today,isUp,img,color,sube})=>{
 
  const colores={
     Twitter:"bg-blue-300",
@@ -10,7 +10,7 @@ export const Overview=({user,key,network,audienceType,today,isUp,img,color,sube}
    
     return(
         <>
-        <article key={key} className="bg-gray-300 w-[326px] h-[216px] mb-4 rounded-[5px] mx-auto overflow-hidden ">
+        <article key={key} className="bg-gray-300 h-[216px] mb-4 rounded-[5px] overflow-hidden ">
             <div className={`${colores[network]} h-[4px]`}></div>
             <div className="flex items-center place-content-center gap-2 mt-5  ">
              <img src={img} alt="logo" className="w-[50px]" />
