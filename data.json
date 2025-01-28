@@ -9,7 +9,9 @@
             "sube":27,
             "isUp":false,
             "img":"https://th.bing.com/th?id=OIP.aYVbqEFb2M-SWsBh_LafIQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
-            "color":"bg-blue-800"
+            "color":"bg-blue-800",
+            "porcentaje":2334,
+            "estadisticas":"Likes"
         },
         {
             "id":"o-002",
@@ -20,7 +22,9 @@
             "sube":13,
             "isUp":true,
             "img":"https://th.bing.com/th?id=OIP.4yOhxJCs2K0_hNHRpteMmgHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
-            "color":"bg-red-400"
+            "color":"bg-red-400",
+            "porcentaje":55,
+            "estadisticas":"Profiles"
         },
         {
             "id":"o-003",
@@ -31,7 +35,9 @@
             "sube":43,
             "isUp":false,
             "img":"https://th.bing.com/th?id=OIP.vpx0C7O7lufiaNqp5toPAQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
-            "color":"bg-blue-400"
+            "color":"bg-blue-400",
+            "porcentaje":34,
+            "estadisticas":"Profiles"
         },{
         "id":"o-005",
         "network":"tiktok",
@@ -41,7 +47,33 @@
         "sube":11,
         "isUp":true,
         "img":"https://th.bing.com/th/id/OIP.1I1gtkjFR_RgPq_tsnPi1gHaHa?w=217&h=216&c=7&r=0&o=5&pid=1.7",
-        "color":"bg-black"}
+        "color":"bg-black",
+    "porcentaje":79,
+"estadisticas":"view"},
+        {
+            "id":"o-008",
+            "network":"tiktok",
+            "user":"jose@gmail",
+            "audienceType":"followers",
+            "today":623,
+            "sube":11,
+            "isUp":true,
+            "img":"https://th.bing.com/th/id/OIP.1I1gtkjFR_RgPq_tsnPi1gHaHa?w=217&h=216&c=7&r=0&o=5&pid=1.7",
+            "color":"bg-black",
+        "porcentaje":24,
+    "estadisticas":"Likes"}
+            ,{
+                "id":"o-006",
+                "network":"Youtube",
+                "user":"jose@gmaissl",
+                "audienceType":"followers",
+                "today":623,
+                "sube":11,
+                "isUp":true,
+                "img":"https://th.bing.com/th?id=OIP.DSRAUSCk8g1QkDYugvOhNgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+                "color":"bg-red-900",
+            "porcentaje":2334,
+        "estadisticas":"View"}
     ]
 
 }
